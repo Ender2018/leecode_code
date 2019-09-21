@@ -12,3 +12,8 @@
 * [168. Excel表列名称](https://github.com/Ender2018/leecode_code/blob/master/168.%20Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0.md)
 * [169. 求众数](https://github.com/Ender2018/leecode_code/blob/master/169.%20%E6%B1%82%E4%BC%97%E6%95%B0.md)
 * [171. Excel表列序号](https://github.com/Ender2018/leecode_code/blob/master/171.%20Excel%E8%A1%A8%E5%88%97%E5%BA%8F%E5%8F%B7.md)
+* [172. 阶乘后的零](https://github.com/Ender2018/leecode_code/blob/master/172.%20%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%84%E9%9B%B6.md)
+* [189. 旋转数组](https://github.com/Ender2018/leecode_code/blob/master/189.%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.md)
+* [190. 颠倒二进制位](https://github.com/Ender2018/leecode_code/blob/master/190.%20%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.md)
+* [198. 打家劫舍](https://github.com/Ender2018/leecode_code/blob/master/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
+* [202. 快乐数](https://github.com/Ender2018/leecode_code/blob/master/202.%20%E5%BF%AB%E4%B9%90%E6%95%B0.md)
