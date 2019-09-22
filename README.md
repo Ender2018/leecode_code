@@ -18,3 +18,5 @@
 * [191. 位1的个数](https://github.com/Ender2018/leecode_code/blob/master/191.%20%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.md)
 * [198. 打家劫舍](https://github.com/Ender2018/leecode_code/blob/master/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
 * [202. 快乐数](https://github.com/Ender2018/leecode_code/blob/master/202.%20%E5%BF%AB%E4%B9%90%E6%95%B0.md)
+* [203. 移除链表元素](https://github.com/Ender2018/leecode_code/blob/master/203.%20%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md)
+* [204. 计数质数](https://github.com/Ender2018/leecode_code/blob/master/204.%20%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0.md)
