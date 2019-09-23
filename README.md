@@ -20,3 +20,6 @@
 * [202. 快乐数](https://github.com/Ender2018/leecode_code/blob/master/202.%20%E5%BF%AB%E4%B9%90%E6%95%B0.md)
 * [203. 移除链表元素](https://github.com/Ender2018/leecode_code/blob/master/203.%20%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md)
 * [204. 计数质数](https://github.com/Ender2018/leecode_code/blob/master/204.%20%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0.md)
+* [217. 存在重复元素](https://github.com/Ender2018/leecode_code/blob/master/217.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)
+* [206. 反转链表](https://github.com/Ender2018/leecode_code/blob/master/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+* [205. 同构字符串](https://github.com/Ender2018/leecode_code/blob/master/205.%20%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
