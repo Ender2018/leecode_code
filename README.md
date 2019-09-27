@@ -26,3 +26,6 @@
 * [219. 存在重复元素 II](https://github.com/Ender2018/leecode_code/blob/master/219.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.md)
 * [225. 用队列实现栈](https://github.com/Ender2018/leecode_code/blob/master/225.%20%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
 * [226. 翻转二叉树](https://github.com/Ender2018/leecode_code/blob/master/226.%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+* [231. 2的幂](https://github.com/Ender2018/leecode_code/blob/master/231.%202%E7%9A%84%E5%B9%82.md)
+* [232. 用栈实现队列](https://github.com/Ender2018/leecode_code/blob/master/232.%20%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
+* [234. 回文链表](https://github.com/Ender2018/leecode_code/blob/master/234.%20%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)
