@@ -1,6 +1,8 @@
 # leecode_code
 记录下自己的做过的题，写下来梳理一遍
 # 目录
+* [1. 两数之和](https://github.com/Ender2018/leecode_code/blob/master/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+* [7. 整数反转](https://github.com/Ender2018/leecode_code/blob/master/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
 * [121. 买卖股票的最佳时机](https://github.com/Ender2018/leecode_code/blob/master/121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
 * [122. 买卖股票的最佳时机 ii](https://github.com/Ender2018/leecode_code/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20ii.md)
 * [125. 验证回文串](https://github.com/Ender2018/leecode_code/blob/master/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
@@ -29,3 +31,6 @@
 * [231. 2的幂](https://github.com/Ender2018/leecode_code/blob/master/231.%202%E7%9A%84%E5%B9%82.md)
 * [232. 用栈实现队列](https://github.com/Ender2018/leecode_code/blob/master/232.%20%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
 * [234. 回文链表](https://github.com/Ender2018/leecode_code/blob/master/234.%20%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)
+* [235. 二叉搜索树的最近公共祖先](https://github.com/Ender2018/leecode_code/blob/master/235.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md)
+* [237. 删除链表中的节点](https://github.com/Ender2018/leecode_code/blob/master/237.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)
+* [242. 有效的字母异位词](https://github.com/Ender2018/leecode_code/blob/master/242.%20%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
