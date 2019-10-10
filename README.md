@@ -3,6 +3,13 @@
 # 目录
 * [1. 两数之和](https://github.com/Ender2018/leecode_code/blob/master/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 * [7. 整数反转](https://github.com/Ender2018/leecode_code/blob/master/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
+* [9. 回文数](https://github.com/Ender2018/leecode_code/blob/master/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md)
+* [13. 罗马数字转整数](https://github.com/Ender2018/leecode_code/blob/master/13.%20%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.md)
+* [14. 最长公共前缀](https://github.com/Ender2018/leecode_code/blob/master/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md)
+* [20. 有效的括号](https://github.com/Ender2018/leecode_code/blob/master/20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
+* [21. 合并两个有序链表](https://github.com/Ender2018/leecode_code/blob/master/21.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+* [26. 删除排序数组中的重复项](https://github.com/Ender2018/leecode_code/blob/master/26.%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
+* [27. 移除元素](https://github.com/Ender2018/leecode_code/blob/master/27.%20%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md)
 * [121. 买卖股票的最佳时机](https://github.com/Ender2018/leecode_code/blob/master/121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
 * [122. 买卖股票的最佳时机 ii](https://github.com/Ender2018/leecode_code/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20ii.md)
 * [125. 验证回文串](https://github.com/Ender2018/leecode_code/blob/master/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
