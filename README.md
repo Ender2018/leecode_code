@@ -2,8 +2,12 @@
 记录下自己的做过的题，写下来梳理一遍
 # 目录
 * [1. 两数之和](https://github.com/Ender2018/leecode_code/blob/master/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+* [6. Z 字形变换](https://github.com/Ender2018/leecode_code/blob/master/6.%20Z%20%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.md)
 * [7. 整数反转](https://github.com/Ender2018/leecode_code/blob/master/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
+* [8. 字符串转换整数 (atoi)](https://github.com/Ender2018/leecode_code/blob/master/8.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi).md)
 * [9. 回文数](https://github.com/Ender2018/leecode_code/blob/master/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md)
+* [11. 盛最多水的容器](https://github.com/Ender2018/leecode_code/blob/master/11.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md)
+* [12. 整数转罗马数字](https://github.com/Ender2018/leecode_code/blob/master/12.%20%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97.md)
 * [13. 罗马数字转整数](https://github.com/Ender2018/leecode_code/blob/master/13.%20%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.md)
 * [14. 最长公共前缀](https://github.com/Ender2018/leecode_code/blob/master/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md)
 * [20. 有效的括号](https://github.com/Ender2018/leecode_code/blob/master/20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
@@ -27,6 +31,9 @@
 * [108. 将有序数组转换为二叉搜索树](https://github.com/Ender2018/leecode_code/blob/master/108.%20%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
 * [110. 平衡二叉树](https://github.com/Ender2018/leecode_code/blob/master/110.%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 * [111. 二叉树的最小深度](https://github.com/Ender2018/leecode_code/blob/master/111.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6.md)
+* [112. 路径总和](https://github.com/Ender2018/leecode_code/blob/master/112.%20%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C.md)
+* [118. 杨辉三角](https://github.com/Ender2018/leecode_code/blob/master/118.%20%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92.md)
+* [119. 杨辉三角 II](https://github.com/Ender2018/leecode_code/blob/master/119.%20%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%20II.md)
 * [121. 买卖股票的最佳时机](https://github.com/Ender2018/leecode_code/blob/master/121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
 * [122. 买卖股票的最佳时机 ii](https://github.com/Ender2018/leecode_code/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20ii.md)
 * [125. 验证回文串](https://github.com/Ender2018/leecode_code/blob/master/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
